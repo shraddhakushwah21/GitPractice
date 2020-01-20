@@ -1,7 +1,6 @@
-public class Hello
+public class Hello{
+ public void hello()
 {
-	public void sayHello()
-	{
-		System.out.println("Hello Shraddha !");
-	}
+	System.out.println("Hello");
+}
 }
