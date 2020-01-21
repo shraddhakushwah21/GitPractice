@@ -3,5 +3,6 @@ public class Hello{
 {
 	 String name="Ankit";
 	System.out.println("Hello Shraddha!");
+	System.out.println(name);
 }
 }
